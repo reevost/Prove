@@ -1,0 +1,32 @@
+palla di fuoco	5	0	20	3d6	fuoco	danno da fuoco		
+getto di fuoco	10	0	20	3d10	fuoco	piccola pallina di fuoco		
+fuochi fatui	10	0	0	1d10 ognuno	fuoco	3 piccoli fuochi ataccano chi si avvicina, consumandosi nell'attacco		
+immolazione	20	0	2	3d10	fuoco	ti dai fuoco, chi è a meno di un metro prende danno, tu prendi 1d6 a turno diretto, dura 3 tuoi turni		
+muro di fuoco	30	0	20	3d12	fuoco	crei un muro alto 3m della forma che vuoi, lungo max 10m e tre turni		
+resistenza fuoco	15	0	20	0	fuoco	dai resistenza a te o un bersaglio willing per 6 turni		
+evoca fenice	30	1	5	0	Fuoco/evocazione			
+fiamme danzanti	10	0	30	0	fuoco	3 piccole luci iluminano i bersagli impedendo a loro di nascondersi		
+burning hands	30	0	0	3+3d10	fuoco	AoE cono 5m		
+meteora	70	2	30	20+8d10	fuoco	AoE  5m		
+terreno impervio	10	1	10	0	ghiaccio	il terreno si ghiaccia rendendo difficile il movimento eccetto caster e amici		
+armatura di ghiaccio	20	0	20	0	ghiaccio	AC+2, si scioglie con magie di fuoco, durata 5 turni a te o bersaglio consenziente		
+blocca movimenti	20	0	20	0	ghiaccio	blocca con ghiaccio gamba o zampa nemico max large fino a un turno tutti hanno vantaggio		
+grandine	30	1	30	5+3d8	ghiaccio	Tutti prendono il danno ad ogni turno se all'aperto,durata 3 turni		
+spada di ghiaccio	15	0	0	1+3d8	ghiaccio/evocazione	evoca spada che scala in focus a colpire		
+brina	30	1	20	5+3d12	ghiaccio	danno doppio a entità parzialmente in acqua o bagnata, triplo se totalmente in acqua		
+lancia di ghiaccio	40	1	30	5+2d10+2d12+2d6	ghiaccio	dal terreno protrude una stalagmite molto appuntita che impala nemici
+aurora boreale	10	0	0	2+2d8+2d4	ghiaccio	ondata di ghiaccio che esce da palmo della mano, AoE linea 10m
+sangue glaciale	50	1	20	10+5d10+5d6	ghiaccio	ghiaccia il sangue di un nemico, instakill!(se ha meno di 100HP)
+uragano piccolo	30	1	0	10+2d10+2d12	ghiaccio/fulmine	AoE r5m
+muro di ghiaccio	20	0	0	30+3d10 7AC	ghiaccio	Muro di ghiaccio utile per difendersi, non danneggia ma ha una vita
+golem di ghiaccio	30	1	0	0	ghiaccio/evocazione	
+scudo ghiacciato	10	0	20	0	ghiaccio	ricopre uno scudo con una lamina di ghiaccio, dando AC+1
+fulmine	10	0	20	3+3d6	fulmine	
+frusta elettrica	10	0	5	2+3d8	fulmine/evocazione	esce dal palmo una frusta sottile di energia elettrrica,reach
+tuono	30	0	25	7+3d12+3d4	fulmine	
+tempesta	30	0	30	5+3d6	fulmine	ogni turno cadono 2 fulmini su chi vuoi,3 turni
+nebbia	20	0	20	0	fulmine	crei una nebbia in una zona che puoi vedere di raggio 20m
+folata 	5	0	20	2+2d6	fulmine	colpo daria che spinge 
+elettrizza arma	15	0	20	0	fulmine/incantamento	
+aura di fulmini	20	0	2	5+2d8	fulmine	attorno a caster si generano fulmini,5 turni r2m
+scarica a catena	20	0	20	3+3d6	fulmine	un fulmine che dopo avercolpito un bersaglio ne colpisce altri se a meno di 3m di distanza da bersaglio
